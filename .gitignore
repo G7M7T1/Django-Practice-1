@@ -6,4 +6,3 @@
 *.iml
 out
 gen
-!/car_site/settings.py
