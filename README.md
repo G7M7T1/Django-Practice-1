@@ -1,5 +1,5 @@
-# Car-Site-Example
-Using Django (Car-Site-Example)
+# Django-Practice-1
+Using Django (Django-Practice-1)
 
 http://127.0.0.1:8000/admin/
 
